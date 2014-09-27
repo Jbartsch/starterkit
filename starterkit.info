@@ -1,0 +1,60 @@
+name = Starterkit
+description = Starterkit installation.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = defaultcontent
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = jquery_update
+dependencies[] = ctools
+dependencies[] = panels
+dependencies[] = views
+dependencies[] = views_bootstrap
+dependencies[] = views_isotope
+dependencies[] = dragndrop_upload
+;dependencies[] = invite
+dependencies[] = invite_by_email
+dependencies[] = entity
+dependencies[] = date
+dependencies[] = date_views
+dependencies[] = jquery_countdown_timer
+dependencies[] = features
+dependencies[] = page_manager
+dependencies[] = rules
+dependencies[] = rules_scheduler
+dependencies[] = rules_admin
+dependencies[] = strongarm
+dependencies[] = navbar
+
+dependencies[] = panels_ipe
+dependencies[] = panels_node
+dependencies[] = views_ui
+
+dependencies[] = md_slider
+dependencies[] = quickedit
+dependencies[] = quickedit_tab
+
+; Features
+dependencies[] = default_content
+
+; Themes
+;dependencies[themes] = adminimal
+	
+
