@@ -41,7 +41,6 @@ dependencies[] = panels_ipe
 dependencies[] = panels_node
 dependencies[] = views_ui
 
-dependencies[] = md_slider
 dependencies[] = quickedit
 dependencies[] = quickedit_tab
 
