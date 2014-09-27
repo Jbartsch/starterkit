@@ -27,14 +27,8 @@ dependencies[] = ctools
 dependencies[] = panels
 dependencies[] = views
 dependencies[] = views_bootstrap
-dependencies[] = views_isotope
-dependencies[] = dragndrop_upload
 ;dependencies[] = invite
-dependencies[] = invite_by_email
 dependencies[] = entity
-dependencies[] = date
-dependencies[] = date_views
-dependencies[] = jquery_countdown_timer
 dependencies[] = features
 dependencies[] = page_manager
 dependencies[] = rules
@@ -56,5 +50,3 @@ dependencies[] = default_content
 
 ; Themes
 ;dependencies[themes] = adminimal
-	
-
