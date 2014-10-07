@@ -41,19 +41,6 @@ function default_content_strongarm() {
   $strongarm = new stdClass();
   $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
   $strongarm->api_version = 1;
-  $strongarm->name = 'md_slider_1_css';
-  $strongarm->value = '.md-layer-1-0-0 {
-z-index: 999;}
-.md-layer-1-0-1 {
-z-index: 1000; color: #ffffff !important;
- font-size: 6.6666666666667em;
- font-family: Trebuchet MS;
-}';
-  $export['md_slider_1_css'] = $strongarm;
-
-  $strongarm = new stdClass();
-  $strongarm->disabled = FALSE; /* Edit this to true to make a default strongarm disabled initially */
-  $strongarm->api_version = 1;
   $strongarm->name = 'node_admin_theme';
   $strongarm->value = '1';
   $export['node_admin_theme'] = $strongarm;
